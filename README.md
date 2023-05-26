@@ -15,3 +15,5 @@ This folder contains my version of a few guided projects proposed in the data sc
 
 
  - Project 11 - Predicting Garments Factory Productivity Using Decision Tree Classifiers
+
+ - Project 13 - Predicting Medical Insurance Costs Via Linear Regression - A Modular Design Approach
